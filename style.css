@@ -1,0 +1,17 @@
+.jumbotron {
+    padding-top: 100px;
+    background-color: #6abcec;
+}
+
+#portfolio {
+    background-color: #6abcec;
+}
+
+.port {
+    width: 300px;
+    height: 200px;
+}
+
+#home, #about, #portfolio, #contact {
+    padding-top: 70px;
+}
